@@ -27,9 +27,9 @@ If you really want to drop me an email([[taylorsunwantedemails@gmail.com::mailto
 ### FAQ
 
 Where were you born?
-South Carolina. But I am not a fan of the south.
+- South Carolina. But I am not a fan of the south.
 
 Where did you grow up?
-Vermont. I love Vermont and if I could stand living in a small rural area again I'd probably move back.
+- Vermont. I love Vermont and if I could stand living in a small rural area again I'd probably move back.
 
 ---
