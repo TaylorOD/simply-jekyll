@@ -6,7 +6,7 @@ content-type: eg
 ---
 
 Here is my github if you are interested: ([[Github::https://github.com/taylorod]]) 
-My non blog website is here: ([[Github::taylorod.github.io]])
+My non blog website is here: (taylorod.github.io)
 
 I am a software engineer that loves the unknown. I like building things and helping create software that connects with users deeply. My experience working with engineers, managers, CTO’s, and CEO’s over the years as a Technical Recruiter has allowed me to see what makes teams work, and often don’t work, well together. 
 
@@ -21,7 +21,7 @@ My degree is in Theater and I wrestled in college. I used to say one day when I 
 
 ## Reach out to me
 
-[[Twitter::https://twitter.com/yodorsett]] – Shoot me a dm or just tweet ***@yodorsett***. I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] just in case.
+[[Twitter::https://twitter.com/yodorsett]] – Shoot me a dm or just tweet ***@yodorsett***. I'm not on other social media apps but here is my [[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] in case you want to look at my background.
     
 If you really want to drop me an email  ([[taylorsunwantedemails@gmail.com::mailto:taylorsunwantedemails@gmail.com]]).
 
