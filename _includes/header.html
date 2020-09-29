@@ -1,4 +1,4 @@
-{%- if page.content-type == "notes" or page.permalink == "/notes" -%}
+{%- if page.content-type == "notes" or page.permalink == "tayorod.github.io" -%}
 <header>
     <div class="notes-page-subheader disable-select">
         <div class="notes-page-site-heading">
@@ -6,7 +6,7 @@
         </div>
 
         <div class="notes-page-main-heading">
-            <p class="notes-page-heading"><a href="taylorod.github.com"></a></p>
+            <p class="notes-page-heading"><a href="taylorod.github.io"></a></p>
             <p class="notes-page-tagline">The journey from raw thoughts to <a href="/">blogposts</a></p>
         </div>
     </div>
@@ -45,7 +45,7 @@
             limit: 4
         })
     </script>
-    {%- if page.permalink == "/notes" -%}
+    {%- if page.permalink == "tayorod.github.io" -%}
     <div class="notes-page-subheader disable-select" id="scroll-head" onclick="window.location.assign('/');">
         <div class="back-icon">
             <svg class="ripple" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
@@ -56,7 +56,8 @@
         <p class="back-p">Home</p>
     </div>
     {%- else -%}
-    <div class="notes-page-subheader disable-select" id="scroll-head" onclick="window.location.assign('/notes');">
+    <div class="notes-page-subheader disable-select" id="scroll-head"
+        onclick="window.location.assign('tayorod.github.io');">
         <div class="back-icon">
             <svg class="ripple" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
                 <path d="M0 0h24v24H0z" fill="none" />
