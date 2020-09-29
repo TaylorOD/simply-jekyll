@@ -20,9 +20,9 @@ My degree is in Theater and I wrestled in college. I used to say one day when I 
 
 ## Reach out to me
 
-[[Twitter::https://twitter.com/yodorsett]] – Shoot me a dm or just tweet ***@yodorsett***. I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[linkedin::https://www.linkedin.com/in/taylordorsett/]] just in case.
+[[Twitter::https://twitter.com/yodorsett]] – Shoot me a dm or just tweet ***@yodorsett***. I will try to reply as soon as I can. Sadly, I am not available on any other social media sites. I am not really into professional social media circle but anyway here is my [[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] just in case.
     
-If you really want to drop me an email([[taylorsunwantedemails@gmail.com::mailto:taylorsunwantedemails@gmail.com).
+If you really want to drop me an email([[taylorsunwantedemails@gmail.com::mailto:taylorsunwantedemails@gmail.com]]).
 
 ### FAQ
 
