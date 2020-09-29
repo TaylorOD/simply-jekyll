@@ -5,8 +5,8 @@ permalink: /about/
 content-type: eg
 ---
 
-Here is my github if you are interested: ([[https://github.com/taylorod]]) 
-My non blog website is here: ([[taylorod.github.io]])
+Here is my github if you are interested: ([[Github::https://github.com/taylorod]]) 
+My non blog website is here: ([[Github::taylorod.github.io]])
 
 I am a software engineer that loves the unknown. I like building things and helping create software that connects with users deeply. My experience working with engineers, managers, CTO’s, and CEO’s over the years as a Technical Recruiter has allowed me to see what makes teams work, and often don’t work, well together. 
 
