@@ -5,7 +5,7 @@ permalink: /about/
 content-type: eg
 ---
 
-As of now, I am a Software Engineer who is interested in JavaScript and Ruby on Rails. [[Here::https://github.com/taylorod]] is my github if you are interested.
+As of now, I am a Software Engineer who is interested in JavaScript and Ruby on Rails. [[Here::https://github.com/taylorod]] is my github if you are interested. My non blog website is ([here::taylorod.github.io])
 
 I am a software engineer that loves the unknown. I like building things and helping create software that connects with users deeply. My experience working with engineers, managers, CTO’s, and CEO’s over the years as a Technical Recruiter has allowed me to see what makes teams work, and often don’t work, well together. 
 
