@@ -5,7 +5,7 @@ permalink: /about/
 content-type: eg
 ---
 
-Here is my github if you are interested: ([[Github::https://github.com/taylorod]])
+Here is my github if you are interested: [[Github::https://github.com/taylorod]]
 
 My non blog website is here: [taylorod.github.io](taylorod.github.io)
 
@@ -23,10 +23,11 @@ I'd previously worked at Actualize Coding Bootcamp as the Director of Career Man
 
 ## Reach out to me
 
-[[Twitter::https://twitter.com/yodorsett]] – Send me a dm.
+[[Twitter::https://twitter.com/yodorsett]] – Send me a DM.
+
 [[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] - I'm not on other social media apps but here is my LinkedIn.
 
-If you want to drop me an (email:mailto:taylorsunwantedemails@gmail.com)
+If you want to drop me an [[email:mailto:taylorsunwantedemails@gmail.com]]
 
 ### FAQ
 
