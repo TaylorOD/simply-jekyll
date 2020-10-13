@@ -21,6 +21,6 @@ Thoughts
 
 Thoughts
 
-## Score: ([The rating system explained]) ()
+## Score: ([The rating system explained])(https://www.taylordorsett.com/posts/my-book-review-system-explained)
 
 \_ of 3 - Read in 2020
