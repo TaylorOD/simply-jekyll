@@ -27,7 +27,7 @@ I'd previously worked at Actualize Coding Bootcamp as the Director of Career Man
 
 [[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] - I'm not on other social media apps but here is my LinkedIn.
 
-If you want to sent me an [email.](taylorsunwantedemails@gmail.com)
+If you want to sent me an email: taylorsunwantedemails@gmail.com
 
 ### FAQ
 
