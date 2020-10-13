@@ -22,7 +22,6 @@ The battles are good. Higher tech versions of the first books. The space fights 
 
 As noted the rhythm of ups and downs gets a bit predictable but in a world of hyper-smart people plotting to gather more and more power, it makes sense that plans with often be shattered.
 
-## Score: ([The rating system explained])(https://www.taylordorsett.com/posts/my-book-review-system-explained)
-
+## Score: [The rating system explained](https://www.taylordorsett.com/posts/my-book-review-system-explained)
 
 3 of 3 - Read in 2020
