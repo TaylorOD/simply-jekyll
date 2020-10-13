@@ -6,7 +6,8 @@ content-type: eg
 ---
 
 Here is my github if you are interested: ([[Github::https://github.com/taylorod]])
-My non blog website is here: taylorod.github.io
+
+My non blog website is here: [taylorod.github.io](taylorod.github.io)
 
 I took my first programming class in high school, loved it, copy pasted my way through making a Worf whack a mole game. Then I got banned from using school computers for crashing the shared drive by saving a word doc with my name it in a googol number of times.
 
@@ -22,9 +23,10 @@ I'd previously worked at Actualize Coding Bootcamp as the Director of Career Man
 
 ## Reach out to me
 
-[[Twitter::https://twitter.com/yodorsett]] – Shoot me a dm. I'm not on other social media apps but here is my [[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] in case you want to look at my background.
+[[Twitter::https://twitter.com/yodorsett]] – Send me a dm.
+[[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] - I'm not on other social media apps but here is my LinkedIn.
 
-If you want to drop me an email ([[taylorsunwantedemails@gmail.com::mailto:taylorsunwantedemails@gmail.com]]).
+If you want to drop me an (email:mailto:taylorsunwantedemails@gmail.com)
 
 ### FAQ
 
