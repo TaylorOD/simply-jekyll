@@ -7,6 +7,10 @@ categories: jekyll update
 published: true
 ---
 
+## Score: [The rating system explained](https://www.taylordorsett.com/posts/my-book-review-system-explained)
+
+3 of 3 - Read in 2020
+
 ## What I liked the most:
 
 Darrow takes risks. Some pay off and some blow up in his face. He's flawed and makes decisions that could make him unlikable. The book isn't worried about showing a complex world view.
@@ -21,7 +25,3 @@ The second book in the Red Rising Trilogy promised greater stakes and space batt
 The battles are good. Higher tech versions of the first books. The space fights are scares but they deliver for the most part. Characters continue to develop and change and that is what drives this book.
 
 As noted the rhythm of ups and downs gets a bit predictable but in a world of hyper-smart people plotting to gather more and more power, it makes sense that plans with often be shattered.
-
-## Score: [The rating system explained](https://www.taylordorsett.com/posts/my-book-review-system-explained)
-
-3 of 3 - Read in 2020

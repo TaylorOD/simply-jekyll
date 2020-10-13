@@ -7,7 +7,9 @@ categories: jekyll update
 published: false
 ---
 
-## Title
+## Score: [The rating system explained](https://www.taylordorsett.com/posts/my-book-review-system-explained)
+
+\_ of 3 - Read in 2020
 
 ## What I liked the most:
 
@@ -20,7 +22,3 @@ Thoughts
 ## Thoughts:
 
 Thoughts
-
-## Score: [The rating system explained](https://www.taylordorsett.com/posts/my-book-review-system-explained)
-
-\_ of 3 - Read in 2020
