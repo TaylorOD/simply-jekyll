@@ -11,8 +11,8 @@ encoding: utf-8
 # Build settings
 theme: null
 plugins:
-  - jekyll-feed 
-  - jekyll-sitemap 
+  - jekyll-feed
+  - jekyll-sitemap
 
 markdown: kramdown
 
@@ -27,9 +27,9 @@ sass:
   style: compressed
 
 collections:
-    notes:
-      output: true
-      permalink: /notes/:title
+  notes:
+    output: false
+    permalink: /notes/:title
 
 defaults:
   - scope:
