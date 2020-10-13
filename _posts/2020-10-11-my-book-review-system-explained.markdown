@@ -7,8 +7,6 @@ categories: jekyll update
 published: true
 ---
 
-## My Book Review System Explained
-
 I love to read and between physical books, audiobooks, and the Kindle app on my phone, I typically finish 30+ books a year. Sci-Fi is by far my favorite genre and I get sucked into trilogies and series far too often. A few years ago I started rating all of the books that I read on a scale of 1 to 3.
 I feel that the 3 point scale if more effective than a 10 or a 5 point scale. Each point gives a clear impression of how I felt about the book and each point is used often. The 5 and 10 point scale rarely use the low end and often the high end is used inconsistently. Here is what each of my three points represents:
 

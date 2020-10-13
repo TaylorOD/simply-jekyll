@@ -7,8 +7,6 @@ categories: jekyll update
 published: true
 ---
 
-## 5 Sci-Fi Books I Enjoyed - You might like them too
-
 I devour Sci-Fi books. If I had to read one genre alone for the rest of my life it would be sci-fi books. I love the world-building, the vastness of space, and the endless number of stories that can be told.
 
 In the past, I judged myself for reading fun sci-fi instead of more intellectual books. Phooey. I'll get around to Flanagan's Wake eventually. For now, I'll read what I like.
@@ -30,4 +28,4 @@ Here are 5 reads I enjoyed that you might like:
 
 - I don't know who I'm kidding. I'm more likely to see the live production of Flanagans Wake than ever crack that doorstop of a book open.
 - Most of these books have heavy religious themes. My Southern Baptist upbringing may still influence the types of stories I engage with.
-- If you enjoy Sci-Fi or Fantasy books but have a hard time finding books you like check out this list NPR made: https://i2.wp.com/www.sfsignal.com/wp-content/uploads/2017/02/NPRFlowchart.jpg
+- If you enjoy Sci-Fi or Fantasy books but have a hard time finding books you like check out this list NPR made: <https://i2.wp.com/www.sfsignal.com/wp-content/uploads/2017/02/NPRFlowchart.jpg>

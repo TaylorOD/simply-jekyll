@@ -7,8 +7,6 @@ categories: jekyll update
 published: true
 ---
 
-## Red Rising - Pierce Brown - Book Review
-
 ## What I liked the most:
 
 Red Rising doesn’t pull punches when it comes to harsh societies. The main character kills other and countless are killed along the novel’s length. It feels more real than other novels in the genre where it’s rare when an “on-screen” death happens.

@@ -7,8 +7,6 @@ categories: jekyll update
 published: true
 ---
 
-## Golden Son - Pierce Brown - Book Review
-
 ## What I liked the most:
 
 Darrow takes risks. Some pay off and some blow up in his face. He's flawed and makes decisions that could make him unlikable. The book isn't worried about showing a complex world view.
