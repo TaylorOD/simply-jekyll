@@ -7,7 +7,7 @@ categories: jekyll update
 published: false
 ---
 
-## Title of Blog
+## Being Thankful
 
 ## Paragraph One
 
