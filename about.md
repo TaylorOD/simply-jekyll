@@ -21,7 +21,7 @@ I stumbled into Technical Recruiting after college and stepped on a 6-year rocke
 
 [[LinkedIn::https://www.linkedin.com/in/taylordorsett/]] - I'm not on other social media apps but here is my LinkedIn.
 
-If you want to sent me an email: taylorsunwantedemails@gmail.com
+If you want to sent me an email: dorsetttaylordev@gmail.com
 
 ### FAQ
 
