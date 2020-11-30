@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The War of Art: Break Through the Blocks and Win Your Inner Creative Battles - Steven Pressfield - Book Review
+title: The War of Art Break Through the Blocks and Win Your Inner Creative Battles - Steven Pressfield - Book Review
 tags: Books
 date: "2020-11-30 3:51:30 -0500"
 categories: jekyll update
