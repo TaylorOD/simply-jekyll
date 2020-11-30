@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being Thankful
-tags: post
+tags: other
 date: "2020-11-26 3:51:30 -0500"
 categories: jekyll update
 published: true
