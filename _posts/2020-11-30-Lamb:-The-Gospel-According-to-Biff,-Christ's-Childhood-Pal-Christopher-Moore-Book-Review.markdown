@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lamb: The Gospel According to Biff, Christ's Childhood Pal - Christopher Moore - Book Review
+title: Lamb The Gospel According to Biff Christ's Childhood Pal - Christopher Moore - Book Review
 tags: Books
 date: "2020-11-30 3:51:30 -0500"
 categories: jekyll update
